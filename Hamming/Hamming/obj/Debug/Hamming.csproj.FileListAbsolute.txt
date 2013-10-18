@@ -1,0 +1,9 @@
+C:\Workspace\Local\LockscreenControllerProject\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Workspace\Local\LockscreenControllerProject\Hamming\Hamming\obj\Debug\Hamming.csprojResolveAssemblyReference.cache
+C:\Workspace\Local\LockscreenControllerProject\Hamming\Hamming\bin\Debug\Hamming.exe
+C:\Workspace\Local\LockscreenControllerProject\Hamming\Hamming\bin\Debug\Hamming.pdb
+C:\Workspace\Local\LockscreenControllerProject\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Workspace\Local\LockscreenControllerProject\Hamming\Hamming\obj\Debug\Hamming.pdb
+C:\Workspace\Local\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Workspace\Local\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Workspace\Local\Hamming\Hamming\obj\Debug\Hamming.pdb
