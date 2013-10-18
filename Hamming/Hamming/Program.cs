@@ -19,8 +19,13 @@ namespace Hamming
             Console.Write("\nEnter power: ");
             int pow = int.Parse(Console.ReadLine());
 
+            // Get file write location
+            Console.Write("Enter path for output file: ");
+            string filePath = Console.ReadLine();
 
-            var file = new System.IO.StreamWriter(@"C:\Users\mhannaford\Desktop\Hamming.txt");
+            var file = new System.IO.StreamWriter(filePath);
+
+
             double top = Math.Pow(10, pow);
             double count = 0;
 

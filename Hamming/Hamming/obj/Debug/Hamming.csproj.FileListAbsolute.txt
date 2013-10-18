@@ -7,3 +7,6 @@ C:\Workspace\Local\LockscreenControllerProject\Hamming\Hamming\obj\Debug\Hamming
 C:\Workspace\Local\Hamming\Hamming\bin\Debug\Hamming.exe.config
 C:\Workspace\Local\Hamming\Hamming\obj\Debug\Hamming.exe
 C:\Workspace\Local\Hamming\Hamming\obj\Debug\Hamming.pdb
+C:\Users\mhannaford\Desktop\GitHub\hamming\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\mhannaford\Desktop\GitHub\hamming\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Users\mhannaford\Desktop\GitHub\hamming\Hamming\Hamming\obj\Debug\Hamming.pdb
